@@ -8,7 +8,7 @@
 표정 분석을 효율적으로 진행하고자 dlib의 shape_predictor_68_face_landmark를 통해 표정 데이터에서 얼굴의 랜드마크 좌표들을 추출하여 표정 분석을 진행하였습니다. 데이터는 neutral 2410장, happy 2327장, sad 2244장으로 총 6981장의 데이터를 사용하였습니다.
 
 모델은 hyper parameter들을 변경해가며 ResNet18, MobileNetV2, EfficientNet-B0 총 3가지 모델을 통해 실험을 진행하였습니다. 최종적으로 아래와 같이 79.4% 의 test accuracy를 보인 EfficientNet-B0 모델을 사용하였습니다.
-<img src = "https://github.com/jeongmin1217/Facial-Expression-Practice-System/assets/79658037/54337efc-4a46-4e4f-ab33-afcfb6ba58e8" width="50%" height="20%">
+<br><img src = "https://github.com/jeongmin1217/Facial-Expression-Practice-System/assets/79658037/54337efc-4a46-4e4f-ab33-afcfb6ba58e8" width="70%" height="30%">
 
 ## Application
 <img src = "https://github.com/jeongmin1217/LookAtMe/assets/79658037/0b84dc96-8ac5-458a-9168-f77330285bcc" width="30%" height="40%">
