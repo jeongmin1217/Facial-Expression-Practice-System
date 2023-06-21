@@ -16,8 +16,8 @@
 ## 연구 수행 결과
 <h5>메인 화면에서 표정 연습하러가기 버튼 클릭시 동작 예시</h5>
 <img src = "https://github.com/jeongmin1217/Facial-Expression-Practice-System/assets/79658037/78eb4946-4e20-400a-8439-0f5447da37b6" width="30%" height="40%">
-<img src = "https://github.com/jeongmin1217/LookAtMe/assets/79658037/c8a508a1-c836-4c2e-a600-81b622576b1f" width="30%" height="40%">
-<img src = "https://github.com/jeongmin1217/LookAtMe/assets/79658037/07837f62-f25f-4a09-9485-08421628f097" width="30%" height="40%">
+<img src = "https://github.com/jeongmin1217/Facial-Expression-Practice-System/assets/79658037/02d6af8f-ecdc-486d-9e75-59ea36600935" width="30%" height="40%">
+<img src = "https://github.com/jeongmin1217/Facial-Expression-Practice-System/assets/79658037/82e48dc2-8cc7-43d8-9c56-a97bfda89792" width="30%" height="40%">
 <img src = "https://github.com/jeongmin1217/LookAtMe/assets/79658037/c5e6fd6a-ef79-4247-8fc7-7299065cbe25" width="25%" height="40%">
 <img src = "https://github.com/jeongmin1217/LookAtMe/assets/79658037/b9438f5a-d135-43f1-8779-c7d198a50a87" width="20%" height="40%">
 <img src = "https://github.com/jeongmin1217/LookAtMe/assets/79658037/aa79cbdc-a511-4dc0-a8b9-c3a09e461f33" width="25%" height="40%">
