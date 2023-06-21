@@ -23,6 +23,8 @@
 <h5>메인 화면에서 표정 맞추러가기 버튼 클릭시 동작 예시</h5>
 <img src = "https://github.com/jeongmin1217/Facial-Expression-Practice-System/assets/79658037/58c52b20-eaf1-4466-995e-a1571aa987c2" width="35%" height="40%">
 <img src = "https://github.com/jeongmin1217/Facial-Expression-Practice-System/assets/79658037/e19cac1f-cd9d-46bf-98f2-d2cc3956b799" width="35%" height="40%"> <br>
+<img src = "https://github.com/jeongmin1217/Facial-Expression-Practice-System/assets/79658037/708f4a76-e88d-4778-9dd8-09621203d9d0" width="35%" height="40%">
+<img src = "https://github.com/jeongmin1217/Facial-Expression-Practice-System/assets/79658037/17d9ff4b-1360-402d-bd77-2e3e7b739e14" width="35%" height="40%"> <br>
 
 ## Main Functions
 1. Score data in calendar
