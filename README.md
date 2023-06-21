@@ -25,13 +25,4 @@
 <img src = "https://github.com/jeongmin1217/Facial-Expression-Practice-System/assets/79658037/e19cac1f-cd9d-46bf-98f2-d2cc3956b799" width="35%" height="40%"> <br>
 <img src = "https://github.com/jeongmin1217/Facial-Expression-Practice-System/assets/79658037/708f4a76-e88d-4778-9dd8-09621203d9d0" width="35%" height="40%">
 <img src = "https://github.com/jeongmin1217/Facial-Expression-Practice-System/assets/79658037/17d9ff4b-1360-402d-bd77-2e3e7b739e14" width="35%" height="40%"> <br>
-<p>표정 연습시스템의 메인 화면에서 표정 연습하러가기를 클릭시, 사용자의 화면이 나오며 시작 버튼을 누르면 랜덤하게 지어야할 표정이 등장합니다. 그리고 사용자는 해당 표정을 30초간 유지하고 있을 시 정답처리가 됩니다. 또한, 메인 화면에서 표정 맞추러 가기를 클릭하면, 랜덤하게 사진이 등장하며 해당 사진이 표현하고 있는 감정을 선택해야 합니다. 정답을 맞춘 후 닫기 버튼을 누르면 페이지가 리랜더링 되며 랜덤하게 다른 사진이 등장합니다. </p>
-## Main Functions
-1. Score data in calendar
-2. Score changes in realtime
-3. Stats of score which can give user feedback
-
-## More To Do
-1. Consider the case when user do many times of recording in one day
-2. Provide the stats of score when you click the score of specific date on calendar
-3. Consider more accurate & diverse factors about calculating the concentration score
+<br><p>표정 연습시스템의 메인 화면에서 표정 연습하러가기를 클릭시, 사용자의 화면이 나오며 시작 버튼을 누르면 랜덤하게 지어야할 표정이 등장합니다. 그리고 사용자는 해당 표정을 30초간 유지하고 있을 시 정답처리가 됩니다. 또한, 메인 화면에서 표정 맞추러 가기를 클릭하면, 랜덤하게 사진이 등장하며 해당 사진이 표현하고 있는 감정을 선택해야 합니다. 정답을 맞춘 후 닫기 버튼을 누르면 페이지가 리랜더링 되며 랜덤하게 다른 사진이 등장합니다. </p>
