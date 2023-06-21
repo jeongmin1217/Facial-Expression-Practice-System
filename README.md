@@ -11,7 +11,7 @@
 <br><br><img src = "https://github.com/jeongmin1217/Facial-Expression-Practice-System/assets/79658037/54337efc-4a46-4e4f-ab33-afcfb6ba58e8" width="70%" height="30%">
 <br><br>
 위의 모델을 서버에 담은 표정 연습 시스템을 개발하였습니다. 백엔드는 django로, 프론트앤드는 react로, 데이터베이스는 SQLite로 개발을 진행하였습니다.
-<br><br><img src = "https://github.com/jeongmin1217/Facial-Expression-Practice-System/assets/79658037/773f1fdb-2424-43aa-a000-0660fd9dafbb" width="70%" height="30%">
+<br><br><img src = "https://github.com/jeongmin1217/Facial-Expression-Practice-System/assets/79658037/64974ea1-74e8-4de2-9df4-8a7cf72aea96" width="70%" height="30%">
 
 ## Application
 <img src = "https://github.com/jeongmin1217/LookAtMe/assets/79658037/0b84dc96-8ac5-458a-9168-f77330285bcc" width="30%" height="40%">
